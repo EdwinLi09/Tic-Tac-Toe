@@ -1,3 +1,4 @@
 # Tic-Tac-Toe
-- Built a Tic Tac Toe game in C++ using a 2D array that will check for winning conditions horizontally, vertically, and diagonally.
-- Improved user experience by checking for valid inputs and clearing unwanted inputs. 
+- Implemented a console-based Tic Tac Toe game, using the basic concepts of arrays, loops, conditionals, and functions.
+- Created a 2D array that will determine the winner of the game by checking rows, columns, and diagonals for matching symbols.
+- Built using C++ programming on Visual Code Studio.
