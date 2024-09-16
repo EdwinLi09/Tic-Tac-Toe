@@ -1,1 +1,1 @@
-Through Visual Studio Code, I created a Tic Tac Toe game within the console which allows two users to manually input their shapes into the grid wherever they like, just like a typical tic tac toe game. With this personal project, I was able to gain experience with coding in C++ programming. 
+Using Visual Studio Code, I developed a console-based Tic Tac Toe game that allows two users to manually input their shaped into the grid, replicating the original game. This personal project provided me with valuable experience in C++ programming. 
