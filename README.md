@@ -1,10 +1,15 @@
-Using Visual Studio Code, I developed a console-based Tic Tac Toe game that allows two users to manually input their shaped into the grid, replicating the original game. The game employs a 2D array to determine the winner by checking rows, columns, and diagonals for matching symbols. This personal project provided me with valuable experience in C++ programming. 
+# Tic-Tac-Toe 
+This project contains a console-based Tic-Tac-Toe game developed using C++ and Visual Studio Code. The game allows two players to manually input their symbols into the grid, replicating the classic Tic-Tac-Toe experience. The game uses a 2D array to determine the winner by checking rows, columns, and diagonals for matching symbols. 
 
-Techical Skills: 
-1. C++ Programming
-# Start-Up 
+# Project Features 
+- Allows two users to play against each other.
+- Players input their desired row and column to place their "O" and "X" on the grid.
+- The game checks row, columns, and diagonals for matching symbols to determine the winner.
 
-1. On Visual Studio Code, run the file.
-2. Within the terminal, it will prompt the current player to input their desire row/column to put their "X" or "O" on the grid.
-3. After that, it will prompt the next player and so on.
-4. At the end, the row, diagonal, or column with the matching symbol will win the game. 
+# Technical Skills
+- C++
+
+# Getting Started 
+- Open the file in Visual Studio Code.
+- Compile and run the file in terminal. 
+
